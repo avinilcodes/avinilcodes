@@ -8,3 +8,4 @@
 avinilcodes/avinilcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![@avinilcollects's Holopin board](https://holopin.me/avinilcollects)](https://holopin.io/@avinilcollects)
