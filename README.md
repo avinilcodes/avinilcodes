@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Avinil Rajendrakumar Bedarkar
-- 👀 I’m interested in Go lang
-- 🌱 I’m currently learning Go lang
-- 💞️ I’m looking to collaborate on Projects that you may have 
+- 👀 I’m interested in Programming, Learning and Development.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on Projects that you may have.
 - 📫 How to reach me at bedarkar.avinil01@gmail.com
 
 <!---
